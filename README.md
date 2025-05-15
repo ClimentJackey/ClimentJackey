@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ClimentJackey
-- 👀 I’m interested in new ideas
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science
+- 👀 I’m interested and collaborate on new ideas
 
 
 <!---
